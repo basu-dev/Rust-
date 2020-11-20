@@ -1,0 +1,2 @@
+[0915/151450.443:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0916/141149.141:ERROR:settings.cc(321)] Settings magic is not 1129342067
